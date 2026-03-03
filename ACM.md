@@ -1,6 +1,6 @@
 # AWS Certificate Manager
 
-- Easily provision, manage, and deploy TLS Certificates
+- Easily provision, manage, and deploy **TLS Certificates**
 - Provide in-flight encryption for websites HTTPS
 - Supports both public and private TLS certificates
 - Free of charge for public TLS certificates
